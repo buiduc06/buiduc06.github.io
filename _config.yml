@@ -44,7 +44,7 @@ round-avatar: true
 social-network-links:
   email: "buiduc1998@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/duc.developer/
+  facebook: duc.developer
   github: buiduc06
   twitter: 
   patreon: 
